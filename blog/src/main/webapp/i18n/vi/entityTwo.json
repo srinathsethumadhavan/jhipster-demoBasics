@@ -1,0 +1,24 @@
+{
+  "blogApp": {
+    "entityTwo": {
+      "home": {
+        "title": "Entity Twos",
+        "createLabel": "Thêm mới một Entity Two",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Entity Two",
+        "notFound": "No Entity Twos found"
+      },
+      "created": "Một Entity Two mới được tạo với định danh {{ param }}",
+      "updated": "Một Entity Two cập nhật với định danh {{ param }}",
+      "deleted": "Một Entity Two đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Entity Two {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity Two"
+      },
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}

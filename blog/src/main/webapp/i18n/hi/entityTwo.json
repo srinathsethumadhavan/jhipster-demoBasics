@@ -1,0 +1,24 @@
+{
+  "blogApp": {
+    "entityTwo": {
+      "home": {
+        "title": "EntityTwos",
+        "createLabel": "नया Entity Two बनाएँ",
+        "createOrEditLabel": "Entity Two बनाएँ या संपादित करें",
+        "notFound": "No Entity Twos found"
+      },
+      "created": "एक नया Entity Two [identifier: {{ param }}] तैयार है",
+      "updated": "एक Entity Two [identifier: {{ param }}] का अद्यतन हुआ है",
+      "deleted": "Entity Two [identifier: {{ param }}] हटा दिया है",
+      "delete": {
+        "question": "Entity Two [id: {{ id }}] हटाने की पुष्टि करें"
+      },
+      "detail": {
+        "title": "Entity Two"
+      },
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}

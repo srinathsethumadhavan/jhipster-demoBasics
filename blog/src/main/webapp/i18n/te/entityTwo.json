@@ -1,0 +1,24 @@
+{
+  "blogApp": {
+    "entityTwo": {
+      "home": {
+        "title": "Entity Twos",
+        "createLabel": "కొత్త Entity Two  సృష్టించండి",
+        "createOrEditLabel": "Entity Two సృష్టించండి లేదా సవరించండి",
+        "notFound": "No Entity Twos found"
+      },
+      "created": "{{ param }} ఐడీ తో ఒక కొత్త Entity Two సృష్టించబడినది",
+      "updated": "{{ param }} ఐడీ తో ఒక కొత్త Entity Two సవరించబడినది",
+      "deleted": "{{ param }} ఐడీ తో ఒక కొత్త Entity Two తొలగించబడినది",
+      "delete": {
+        "question": "మీరు Entity Two {{ id }} ఖచ్చితంగా తొలగించాలనుకుంటున్నారా?"
+      },
+      "detail": {
+        "title": "Entity Two"
+      },
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}

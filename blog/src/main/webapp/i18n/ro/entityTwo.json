@@ -1,0 +1,24 @@
+{
+  "blogApp": {
+    "entityTwo": {
+      "home": {
+        "title": "Entity Twos",
+        "createLabel": "Creeare o nouă entitate Entity Two",
+        "createOrEditLabel": "Creeare sau editare Entity Two",
+        "notFound": "No Entity Twos found"
+      },
+      "created": "A fost creată o nouă entitate Entity Two cu identificatorul {{ param }}",
+      "updated": "Entity Two cu identificatorul {{ param }} a fost actualizată",
+      "deleted": "Entity Two cu identificatorul {{ param }} a fost ștearsă",
+      "delete": {
+        "question": "Sunteți sigur că doriți să ștergeți Entity Two {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity Two"
+      },
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}

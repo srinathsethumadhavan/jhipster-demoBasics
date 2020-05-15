@@ -1,0 +1,24 @@
+{
+  "blogApp": {
+    "entityTwo": {
+      "home": {
+        "title": "EntityTwos",
+        "createLabel": "Créer un nouveau Entity Two",
+        "createOrEditLabel": "Créer ou éditer un Entity Two",
+        "notFound": "Aucun Entity Two trouvé"
+      },
+      "created": "Un nouveau Entity Two a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Entity Two avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Entity Two avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Entity Two {{ id }} ?"
+      },
+      "detail": {
+        "title": "Entity Two"
+      },
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}

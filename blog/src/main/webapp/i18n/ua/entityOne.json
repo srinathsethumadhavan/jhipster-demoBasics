@@ -1,0 +1,22 @@
+{
+  "blogApp": {
+    "entityOne": {
+      "home": {
+        "title": "Entity Ones",
+        "createLabel": "Створити новий Entity One",
+        "createOrEditLabel": "Створити чи редагувати Entity One",
+        "notFound": "No Entity Ones found"
+      },
+      "created": "Новий Entity One створений з ідентифікатором {{ param }}",
+      "updated": "Entity One оновлений з ідентифікатором {{ param }}",
+      "deleted": "Entity One видалений з ідентифікатором {{ param }}",
+      "delete": {
+        "question": "Ви впевнені, що хочете видалити Entity One {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity One"
+      },
+      "name": "Name"
+    }
+  }
+}

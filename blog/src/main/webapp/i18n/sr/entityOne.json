@@ -1,0 +1,22 @@
+{
+  "blogApp": {
+    "entityOne": {
+      "home": {
+        "title": "Entity Ones",
+        "createLabel": "Kreiraj novi Entity One",
+        "createOrEditLabel": "Kreirajte ili izmenite Entity One",
+        "notFound": "No Entity Ones found"
+      },
+      "created": "Kreiran je novi Entity One pod nazivom {{ param }}",
+      "updated": "Entity One pod nazivom {{ param }} je ažuriran",
+      "deleted": "Entity One pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Entity One pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity One"
+      },
+      "name": "Name"
+    }
+  }
+}

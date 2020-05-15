@@ -1,0 +1,24 @@
+{
+  "blogApp": {
+    "entityTwo": {
+      "home": {
+        "title": "Entity Twos",
+        "createLabel": "Skapa en ny Entity Two",
+        "createOrEditLabel": "Skapa eller ändra en Entity Two",
+        "notFound": "No Entity Twos found"
+      },
+      "created": "En ny Entity Two är skapad med id {{ param }}",
+      "updated": "En Entity Two är uppdaterad med id  {{ param }}",
+      "deleted": "En Entity Two är borttagen med id  {{ param }}",
+      "delete": {
+        "question": "Är du säker på att du vill ta bort Entity Two {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity Two"
+      },
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}

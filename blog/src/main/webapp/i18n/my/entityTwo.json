@@ -1,0 +1,24 @@
+{
+  "blogApp": {
+    "entityTwo": {
+      "home": {
+        "title": "Entity Twos",
+        "createLabel": "Entity Two အသစ်ထည့်မည်",
+        "createOrEditLabel": "Entity Two အသစ်ထည့်ခြင်း (သို့) ပြုပြင်ခြင်း",
+        "notFound": "No Entity Twos found"
+      },
+      "created": "{{ param }} အိုင်ဒီဖြင့် Entity Two အသစ်တစ်ခုအား ထည့်ပြီးပါပြီ။",
+      "updated": "{{ param }} အိုင်ဒီဖြင့် Entity Two တစ်ခုအား ပြုပြင်ပြီးပါပြီ။",
+      "deleted": "{{ param }} အိုင်ဒီဖြင့် Entity Two တစ်ခုအား ဖျက်ပြီးပါပြီ။",
+      "delete": {
+        "question": "Entity Two {{ id }} အား ဖျက်ပါမည်။ သေချာပါသလား?"
+      },
+      "detail": {
+        "title": "Entity Two"
+      },
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}

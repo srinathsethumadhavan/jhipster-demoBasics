@@ -1,0 +1,24 @@
+{
+  "blogApp": {
+    "entityTwo": {
+      "home": {
+        "title": "Entity Twos",
+        "createLabel": "Стварыць новы Entity Two",
+        "createOrEditLabel": "Стварыць або адрэдагаваць Entity Two",
+        "notFound": "No Entity Twos found"
+      },
+      "created": "Новы Entity Two створан з ідэнтыфікатарам {{ param }}",
+      "updated": "Entity Two абноўлен з ідэнтыфікатарам {{ param }}",
+      "deleted": "Entity Two выдален з ідэнтыфікатарам {{ param }}",
+      "delete": {
+        "question": "Вы ўпэўнены, што жадаеце выдаліць Entity Two {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity Two"
+      },
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}

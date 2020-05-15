@@ -1,0 +1,22 @@
+{
+  "blogApp": {
+    "entityOne": {
+      "home": {
+        "title": "Entity Ones",
+        "createLabel": "创建新 Entity One",
+        "createOrEditLabel": "创建或编辑 Entity One",
+        "notFound": "No Entity Ones found"
+      },
+      "created": "Entity One {{ param }} 创建成功",
+      "updated": "Entity One {{ param }} 更新成功",
+      "deleted": "Entity One {{ param }} 删除成功",
+      "delete": {
+        "question": "你确定要删除 Entity One {{ id }} 吗？"
+      },
+      "detail": {
+        "title": "Entity One"
+      },
+      "name": "Name"
+    }
+  }
+}

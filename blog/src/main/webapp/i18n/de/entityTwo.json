@@ -1,0 +1,24 @@
+{
+  "blogApp": {
+    "entityTwo": {
+      "home": {
+        "title": "Entity Twos",
+        "createLabel": "Entity Two erstellen",
+        "createOrEditLabel": "Entity Two erstellen oder bearbeiten",
+        "notFound": "No Entity Twos found"
+      },
+      "created": "Entity Two erstellt mit ID {{ param }}",
+      "updated": "Entity Two aktualisiert mit ID {{ param }}",
+      "deleted": "Entity Two gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Entity Two {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Entity Two"
+      },
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}

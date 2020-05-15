@@ -1,0 +1,22 @@
+{
+  "blogApp": {
+    "entityOne": {
+      "home": {
+        "title": "Entity Ones",
+        "createLabel": "Criar novo(a) Entity One",
+        "createOrEditLabel": "Criar ou editar Entity One",
+        "notFound": "Nenhum Entity Ones encontrado"
+      },
+      "created": "Um novo Entity One foi criado com o identificador {{ param }}",
+      "updated": "Entity One com identificador {{ param }} foi actualizado",
+      "deleted": "Entity One com identificador {{ param }} foi eliminado",
+      "delete": {
+        "question": "Tem a certeza que pretende eliminar o(a) Entity One {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity One"
+      },
+      "name": "Name"
+    }
+  }
+}

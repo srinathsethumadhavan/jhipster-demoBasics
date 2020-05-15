@@ -1,0 +1,22 @@
+{
+  "blogApp": {
+    "entityOne": {
+      "home": {
+        "title": "EntityOnes",
+        "createLabel": "Egy új Entity One létrehozása",
+        "createOrEditLabel": "Hozzon létre, vagy módosítson Entity Onet",
+        "notFound": "No Entity Ones found"
+      },
+      "created": "Egy új Entity One lett létrehozva {{ param }} azonosítóval",
+      "updated": "A Entity One módosítva lett {{ param }} azonosítóval",
+      "deleted": "A Entity One törölve lett {{ param }} azonosítóval",
+      "delete": {
+        "question": "Biztos benne, hogy törölni szeretné az Entity Onet {{ id }} azonosítóval?"
+      },
+      "detail": {
+        "title": "Entity One"
+      },
+      "name": "Name"
+    }
+  }
+}

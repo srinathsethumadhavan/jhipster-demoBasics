@@ -1,0 +1,22 @@
+{
+  "blogApp": {
+    "entityOne": {
+      "home": {
+        "title": "EntityOnes",
+        "createLabel": "Entity One を追加",
+        "createOrEditLabel": "Entity Oneを追加または編集",
+        "notFound": "No Entity Ones found"
+      },
+      "created": "A new Entity One is created with identifier {{ param }}",
+      "updated": "A Entity One is updated with identifier {{ param }}",
+      "deleted": "A Entity One is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Entity One {{ id }}を削除してもよろしいですか？"
+      },
+      "detail": {
+        "title": "Entity One"
+      },
+      "name": "Name"
+    }
+  }
+}

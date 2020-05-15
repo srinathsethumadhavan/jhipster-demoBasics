@@ -1,0 +1,22 @@
+{
+  "blogApp": {
+    "entityOne": {
+      "home": {
+        "title": "Entity Ones",
+        "createLabel": "建立一筆新的 Entity One",
+        "createOrEditLabel": "建立或編輯 Entity One",
+        "notFound": "No Entity Ones found"
+      },
+      "created": "新的 Entity One 建立成功，識別碼為 {{ param }}",
+      "updated": "識別碼為 {{ param }} 的 Entity One 更新成功",
+      "deleted": "識別碼為 {{ param }} 的 Entity One 刪除成功",
+      "delete": {
+        "question": "您確定要刪除 Entity One {{ id }} 嗎?"
+      },
+      "detail": {
+        "title": "Entity One"
+      },
+      "name": "Name"
+    }
+  }
+}

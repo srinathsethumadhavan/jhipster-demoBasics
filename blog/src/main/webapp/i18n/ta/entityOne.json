@@ -1,0 +1,22 @@
+{
+  "blogApp": {
+    "entityOne": {
+      "home": {
+        "title": "Entity Ones",
+        "createLabel": "Entity One-ஐ உருவாக்கு",
+        "createOrEditLabel": "Entity One -ஐ மாற்று (அ) உருவாக்கு",
+        "notFound": "No Entity Ones found"
+      },
+      "created": "Entity One புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+      "updated": "Entity One மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+      "deleted": "A Entity One நீக்கப்பட்டது, அடையாளம {{ param }}",
+      "delete": {
+        "question": "நீக்குவதற்கு உறுதி செய் Entity One {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity One"
+      },
+      "name": "Name"
+    }
+  }
+}

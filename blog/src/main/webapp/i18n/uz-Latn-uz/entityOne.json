@@ -1,0 +1,22 @@
+{
+  "blogApp": {
+    "entityOne": {
+      "home": {
+        "title": "Entity Ones",
+        "createLabel": "Yangi Entity One qo`shish",
+        "createOrEditLabel": "Entity Oneni tahrirlash",
+        "notFound": "No Entity Ones found"
+      },
+      "created": "Entity One {{ param }} bilan qo`shildi",
+      "updated": "{{ param }}- Entity One saqlandi",
+      "deleted": "{{ param }}- Entity One o`chirildi",
+      "delete": {
+        "question": "{{ id }}- Entity Oneni o`chirmoqchimisiz? "
+      },
+      "detail": {
+        "title": "Entity One"
+      },
+      "name": "Name"
+    }
+  }
+}

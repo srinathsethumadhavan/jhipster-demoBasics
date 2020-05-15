@@ -1,0 +1,22 @@
+{
+  "blogApp": {
+    "entityOne": {
+      "home": {
+        "title": "Entity Ones",
+        "createLabel": "Buat Entity One baru",
+        "createOrEditLabel": "Buat atau edit Entity One",
+        "notFound": "No Entity Ones found"
+      },
+      "created": "Entity One dengan id {{ param }} telah dibuat",
+      "updated": "Entity One dengan id {{ param }} telah diperbaharui",
+      "deleted": "Entity One dengan id {{ param }} telah dihapus",
+      "delete": {
+        "question": "Apakah anda yakin ingin menghapus Entity One {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity One"
+      },
+      "name": "Name"
+    }
+  }
+}

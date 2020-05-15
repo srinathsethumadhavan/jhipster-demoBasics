@@ -1,0 +1,24 @@
+{
+  "blogApp": {
+    "entityTwo": {
+      "home": {
+        "title": "Entity Twos",
+        "createLabel": "Luo Entity Two",
+        "createOrEditLabel": "Luo tai muokkaa Entity Two",
+        "notFound": "Entity Two ei löytynyt"
+      },
+      "created": "Uusi Entity Two on luotu, id: {{ param }}",
+      "updated": "Entity Two on päivitetty, id: {{ param }}",
+      "deleted": "Entity Two on päivitetty, id: {{ param }}",
+      "delete": {
+        "question": "Haluatko varmasti poistaa Entity Two {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity Two"
+      },
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}

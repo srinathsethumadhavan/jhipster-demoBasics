@@ -1,0 +1,24 @@
+{
+  "blogApp": {
+    "entityTwo": {
+      "home": {
+        "title": "EntityTwos",
+        "createLabel": "Entity Two を追加",
+        "createOrEditLabel": "Entity Twoを追加または編集",
+        "notFound": "No Entity Twos found"
+      },
+      "created": "A new Entity Two is created with identifier {{ param }}",
+      "updated": "A Entity Two is updated with identifier {{ param }}",
+      "deleted": "A Entity Two is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Entity Two {{ id }}を削除してもよろしいですか？"
+      },
+      "detail": {
+        "title": "Entity Two"
+      },
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}

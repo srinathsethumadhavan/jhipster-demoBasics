@@ -1,0 +1,24 @@
+{
+  "blogApp": {
+    "entityTwo": {
+      "home": {
+        "title": "Entity Twos",
+        "createLabel": "Entity Two-ஐ உருவாக்கு",
+        "createOrEditLabel": "Entity Two -ஐ மாற்று (அ) உருவாக்கு",
+        "notFound": "No Entity Twos found"
+      },
+      "created": "Entity Two புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+      "updated": "Entity Two மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+      "deleted": "A Entity Two நீக்கப்பட்டது, அடையாளம {{ param }}",
+      "delete": {
+        "question": "நீக்குவதற்கு உறுதி செய் Entity Two {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity Two"
+      },
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}

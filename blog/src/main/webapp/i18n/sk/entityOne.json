@@ -1,0 +1,22 @@
+{
+  "blogApp": {
+    "entityOne": {
+      "home": {
+        "title": "Entity Ones",
+        "createLabel": "Pridať Entity One",
+        "createOrEditLabel": "Pridať alebo upraviť Entity One",
+        "notFound": "No Entity Ones found"
+      },
+      "created": "Bol vytvorený potomok entity Entity One s identifikátorom {{ param }}",
+      "updated": "Potomok entity Entity One s identifikátorom {{ param }} bol upravený.",
+      "deleted": "Potomok entity Entity One s identifikátorom {{ param }} bol vymazaný.",
+      "delete": {
+        "question": "Ste si istý, že chcete vymazať Entity One {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity One"
+      },
+      "name": "Name"
+    }
+  }
+}

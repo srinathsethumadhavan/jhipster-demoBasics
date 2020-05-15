@@ -1,0 +1,24 @@
+{
+  "blogApp": {
+    "entityTwo": {
+      "home": {
+        "title": "Entity Twos",
+        "createLabel": "Kreiraj novi Entity Two",
+        "createOrEditLabel": "Kreirajte ili izmenite Entity Two",
+        "notFound": "No Entity Twos found"
+      },
+      "created": "Kreiran je novi Entity Two pod nazivom {{ param }}",
+      "updated": "Entity Two pod nazivom {{ param }} je ažuriran",
+      "deleted": "Entity Two pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Entity Two pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity Two"
+      },
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}

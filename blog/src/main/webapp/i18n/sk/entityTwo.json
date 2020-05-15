@@ -1,0 +1,24 @@
+{
+  "blogApp": {
+    "entityTwo": {
+      "home": {
+        "title": "Entity Twos",
+        "createLabel": "Pridať Entity Two",
+        "createOrEditLabel": "Pridať alebo upraviť Entity Two",
+        "notFound": "No Entity Twos found"
+      },
+      "created": "Bol vytvorený potomok entity Entity Two s identifikátorom {{ param }}",
+      "updated": "Potomok entity Entity Two s identifikátorom {{ param }} bol upravený.",
+      "deleted": "Potomok entity Entity Two s identifikátorom {{ param }} bol vymazaný.",
+      "delete": {
+        "question": "Ste si istý, že chcete vymazať Entity Two {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity Two"
+      },
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}

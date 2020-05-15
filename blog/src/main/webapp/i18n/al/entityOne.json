@@ -1,0 +1,22 @@
+{
+  "blogApp": {
+    "entityOne": {
+      "home": {
+        "title": "Entity Ones",
+        "createLabel": "Krijo një të ri Entity One",
+        "createOrEditLabel": "Krijo ose përpuno një Entity One",
+        "notFound": "No Entity Ones found"
+      },
+      "created": "Një Entity One i ri u krijua me identifikues {{ param }}",
+      "updated": "Një Entity One u përpunua me identifikues {{ param }}",
+      "deleted": "Një Entity One u fshi me identifikues {{ param }}",
+      "delete": {
+        "question": "Jeni i sigurtë që doni të fshini Entity One {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity One"
+      },
+      "name": "Name"
+    }
+  }
+}

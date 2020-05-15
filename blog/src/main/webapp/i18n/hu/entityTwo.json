@@ -1,0 +1,24 @@
+{
+  "blogApp": {
+    "entityTwo": {
+      "home": {
+        "title": "EntityTwos",
+        "createLabel": "Egy új Entity Two létrehozása",
+        "createOrEditLabel": "Hozzon létre, vagy módosítson Entity Twot",
+        "notFound": "No Entity Twos found"
+      },
+      "created": "Egy új Entity Two lett létrehozva {{ param }} azonosítóval",
+      "updated": "A Entity Two módosítva lett {{ param }} azonosítóval",
+      "deleted": "A Entity Two törölve lett {{ param }} azonosítóval",
+      "delete": {
+        "question": "Biztos benne, hogy törölni szeretné az Entity Twot {{ id }} azonosítóval?"
+      },
+      "detail": {
+        "title": "Entity Two"
+      },
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}

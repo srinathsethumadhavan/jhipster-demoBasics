@@ -1,0 +1,22 @@
+{
+  "blogApp": {
+    "entityOne": {
+      "home": {
+        "title": "EntityOnes",
+        "createLabel": "नया Entity One बनाएँ",
+        "createOrEditLabel": "Entity One बनाएँ या संपादित करें",
+        "notFound": "No Entity Ones found"
+      },
+      "created": "एक नया Entity One [identifier: {{ param }}] तैयार है",
+      "updated": "एक Entity One [identifier: {{ param }}] का अद्यतन हुआ है",
+      "deleted": "Entity One [identifier: {{ param }}] हटा दिया है",
+      "delete": {
+        "question": "Entity One [id: {{ id }}] हटाने की पुष्टि करें"
+      },
+      "detail": {
+        "title": "Entity One"
+      },
+      "name": "Name"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "blogApp": {
+    "entityTwo": {
+      "home": {
+        "title": "Entity Twos",
+        "createLabel": "Yangi Entity Two qo`shish",
+        "createOrEditLabel": "Entity Twoni tahrirlash",
+        "notFound": "No Entity Twos found"
+      },
+      "created": "Entity Two {{ param }} bilan qo`shildi",
+      "updated": "{{ param }}- Entity Two saqlandi",
+      "deleted": "{{ param }}- Entity Two o`chirildi",
+      "delete": {
+        "question": "{{ id }}- Entity Twoni o`chirmoqchimisiz? "
+      },
+      "detail": {
+        "title": "Entity Two"
+      },
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}

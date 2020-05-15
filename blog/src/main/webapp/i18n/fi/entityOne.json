@@ -1,0 +1,22 @@
+{
+  "blogApp": {
+    "entityOne": {
+      "home": {
+        "title": "Entity Ones",
+        "createLabel": "Luo Entity One",
+        "createOrEditLabel": "Luo tai muokkaa Entity One",
+        "notFound": "Entity One ei löytynyt"
+      },
+      "created": "Uusi Entity One on luotu, id: {{ param }}",
+      "updated": "Entity One on päivitetty, id: {{ param }}",
+      "deleted": "Entity One on päivitetty, id: {{ param }}",
+      "delete": {
+        "question": "Haluatko varmasti poistaa Entity One {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity One"
+      },
+      "name": "Name"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "blogApp": {
+    "entityOne": {
+      "home": {
+        "title": "Entity Ones",
+        "createLabel": "Δημιουργήστε ένα νέο Entity One",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Entity One",
+        "notFound": "No Entity Ones found"
+      },
+      "created": "Ένα νέο Entity One έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Entity One έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Entity One έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Entity One {{ id }};"
+      },
+      "detail": {
+        "title": "Entity One"
+      },
+      "name": "Name"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "blogApp": {
+    "entityOne": {
+      "home": {
+        "title": "Entity Ones",
+        "createLabel": "Create a new Entity One",
+        "createOrEditLabel": "Create or edit a Entity One",
+        "notFound": "No Entity Ones found"
+      },
+      "created": "A new Entity One is created with identifier {{ param }}",
+      "updated": "A Entity One is updated with identifier {{ param }}",
+      "deleted": "A Entity One is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Entity One {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity One"
+      },
+      "name": "Name"
+    }
+  }
+}

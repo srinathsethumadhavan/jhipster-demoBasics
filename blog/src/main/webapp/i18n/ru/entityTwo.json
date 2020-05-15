@@ -1,0 +1,24 @@
+{
+  "blogApp": {
+    "entityTwo": {
+      "home": {
+        "title": "Entity Twos",
+        "createLabel": "Создать новый Entity Two",
+        "createOrEditLabel": "Создать или отредактировать Entity Two",
+        "notFound": "No Entity Twos found"
+      },
+      "created": "Новый Entity Two создан с идентификатором {{ param }}",
+      "updated": "Entity Two обновлен с идентификатором {{ param }}",
+      "deleted": "Entity Two удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить Entity Two {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity Two"
+      },
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "blogApp": {
+    "entityOne": {
+      "home": {
+        "title": "Entity Ones",
+        "createLabel": "Ստեղծել նոր Entity One",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Entity One",
+        "notFound": "No Entity Ones found"
+      },
+      "created": "Նոր Entity One ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Entity One թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Entity One հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Entity One {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity One"
+      },
+      "name": "Name"
+    }
+  }
+}

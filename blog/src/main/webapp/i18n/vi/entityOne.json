@@ -1,0 +1,22 @@
+{
+  "blogApp": {
+    "entityOne": {
+      "home": {
+        "title": "Entity Ones",
+        "createLabel": "Thêm mới một Entity One",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Entity One",
+        "notFound": "No Entity Ones found"
+      },
+      "created": "Một Entity One mới được tạo với định danh {{ param }}",
+      "updated": "Một Entity One cập nhật với định danh {{ param }}",
+      "deleted": "Một Entity One đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Entity One {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity One"
+      },
+      "name": "Name"
+    }
+  }
+}

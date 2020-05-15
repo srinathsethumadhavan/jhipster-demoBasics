@@ -1,0 +1,24 @@
+{
+  "blogApp": {
+    "entityTwo": {
+      "home": {
+        "title": "Entity Twos",
+        "createLabel": "Maak een nieuwe Entity Two",
+        "createOrEditLabel": "Maak of wijzig een Entity Two",
+        "notFound": "No Entity Twos found"
+      },
+      "created": "A new Entity Two is created with identifier {{ param }}",
+      "updated": "A Entity Two is updated with identifier {{ param }}",
+      "deleted": "A Entity Two is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Bent u zeker dat u Entity Two {{ id }} wilt verwijderen?"
+      },
+      "detail": {
+        "title": "Entity Two"
+      },
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}
