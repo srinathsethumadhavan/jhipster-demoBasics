@@ -1,0 +1,33 @@
+{
+  "health": {
+    "title": "Cтан",
+    "refresh.button": "Абнавіць",
+    "stacktrace": "Трасіроўкі стэка",
+    "details": {
+      "details": "Дэталі",
+      "properties": "Параметры",
+      "name": "Імя",
+      "value": "Значэнне",
+      "error": "Памылка"
+    },
+    "indicator": {
+      "discoveryComposite": "Discovery Composite",
+      "refreshScope": "Вобласць абнаўлення мікрасэрвіса",
+      "clientConfigServer": "Сервер канфігурацыі мікрасэрвіса",
+      "hystrix": "Hystrix",
+      "diskSpace": "Месца на дыску",
+      "mail": "Email",
+      "ping": "Application",
+      "db": "База дадзеных"
+    },
+    "table": {
+      "service": "Назва сэрвісу",
+      "status": "Статус"
+    },
+    "status": {
+      "UNKNOWN": "UNKNOWN",
+      "UP": "UP",
+      "DOWN": "DOWN"
+    }
+  }
+}
